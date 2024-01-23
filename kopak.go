@@ -16,3 +16,6 @@ func Barks() string {
 func Bigbark() string {
 	return kopak2.WhenGrownUp(Bark())
 }
+func Bigbarks() string {
+	return kopak2.WhenGrownUp(Barks())
+}
