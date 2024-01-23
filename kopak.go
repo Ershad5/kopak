@@ -1,10 +1,10 @@
 package kopak
 
 func Bark() string {
-	return "neyniakhada!"
+	return "neyniakh ada!"
 }
 
 func Barks() string {
 
-	return "adadodan neyniakh!"
+	return "ada dodan neyniakh!"
 }
