@@ -19,3 +19,5 @@ func Bigbark() string {
 func Bigbarks() string {
 	return kopak2.WhenGrownUp(Barks())
 }
+
+// i added the tags to test it on git hub V1.1.0
